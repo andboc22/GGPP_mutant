@@ -1,0 +1,5 @@
+source leaprc.gaff
+GGP=loadmol2 ../ligand_files/GGP.mol2
+loadamberparams ../ligand_files/GGP.frcmod
+saveoff GGP ../ligand_files/GGP.lib
+quit
