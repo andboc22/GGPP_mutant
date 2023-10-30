@@ -1,0 +1,7 @@
+parm TXS-GGPP.prmtop
+trajin QM_MM/TXS-GGPP_qmmm.rst7
+trajout TXS-GGPP_qmmm.pdb PDB
+
+center :1-788
+image familiar
+go

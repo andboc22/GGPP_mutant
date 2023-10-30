@@ -1,0 +1,7 @@
+parm TXS-GGPP.prmtop
+trajin Relaxation/TXS-GGPP_relaxed.rst7
+trajout TXS-GGPP_relaxed.pdb PDB
+
+center :1-788
+image familiar
+go
