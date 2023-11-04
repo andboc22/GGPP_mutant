@@ -9,7 +9,7 @@ loadoff ../ligand_files/PPO.lib
 loadoff ../ligand_files/TAX.lib
 
 complex=loadpdb ../TXS-taxa-4-20_start.pdb
-addIons complex Na+ 22
+addIons complex Na+ 23
 solvateOct complex TIP3PBOX 10.0
 addIonsRand complex Na+ 128 Cl- 128
 saveamberparm complex ../TXS-taxa-4-20.prmtop ../TXS-taxa-4-20.inpcrd
