@@ -1,0 +1,8 @@
+parm TXS-taxa-4-20.prmtop
+trajin Relaxation/TXS-taxa-4-20_relaxed.rst7
+trajout TXS-taxa-4-20_relaxed.pdb PDB
+
+center :1-789
+image familiar
+go
+

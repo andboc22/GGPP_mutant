@@ -1,0 +1,5 @@
+source leaprc.gaff
+TAX=loadmol2 ../ligand_files/TAX.mol2
+loadamberparams ../ligand_files/TAX.frcmod
+saveoff TAX ../ligand_files/TAX.lib
+quit

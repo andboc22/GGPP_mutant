@@ -1,0 +1,7 @@
+parm TXS-taxa-4-20.prmtop
+trajin QM_MM/TXS-taxa-4-20_qmmm.rst7
+trajout TXS-taxa-4-20_qmmm.pdb PDB
+
+center :1-789
+image familiar
+go
